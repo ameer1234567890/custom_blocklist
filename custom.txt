@@ -1,4 +1,15 @@
-0.0.0.0 cdn1.mihaaru.com
+# Title: Ameer's Custom Blocklist
+# Description: A custom block list by Ameer Dawood
+# Homepage: https://github.com/ameer1234567890/custom_blocklist
+# License: https://github.com/ameer1234567890/custom_blocklist/blob/master/LICENSE
+# Issues: https://github.com/ameer1234567890/custom_blocklist/issues
+# Expires: 1 day
+# Last modified: 23 Jan 2026 13:07 UTC
+# Version: 2026.01
+# Syntax: Hosts (including possible subdomains)
+# Number of entries: 40
+#
+# Ad Blocking on Viber Desktop & Android
 0.0.0.0 ad.primis.tech
 0.0.0.0 ads.aws.viber.com
 0.0.0.0 ads.cdn.viber.com
@@ -42,3 +53,8 @@
 0.0.0.0 tracking.viber.com
 0.0.0.0 video.primis.tech
 0.0.0.0 www.primis.tech
+# Ad Blocking on Mihaaru News MV
+0.0.0.0 cdn1.mihaaru.com
+# Ad Blocking on TamilMV
+0.0.0.0 lfgewgflheidnn.com
+0.0.0.0 reckoockaiwu.net
