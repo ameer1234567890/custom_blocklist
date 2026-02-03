@@ -7,7 +7,7 @@
 # Last modified: 30 Jan 2026 09:14 UTC
 # Version: 2026.01
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 53
+# Number of entries: 55
 #
 # Ad Blocking on Viber Desktop & Android
 0.0.0.0 ad.primis.tech
@@ -55,7 +55,7 @@
 0.0.0.0 www.primis.tech
 # Ad Blocking on Mihaaru News MV
 0.0.0.0 cdn1.mihaaru.com
-# Ad Blocking on TamilMV
+# Ad Blocking on 1TamilMV
 0.0.0.0 lfgewgflheidnn.com
 0.0.0.0 lpxgmdlmwkb.net
 0.0.0.0 reckoockaiwu.net
@@ -65,3 +65,5 @@
 0.0.0.0 xg.maidismsnackle.com
 0.0.0.0 xipodqcdewukm.com
 0.0.0.0 zonalcalculate.net
+0.0.0.0 yield70.net
+0.0.0.0 miyhftbbhvjty.com
