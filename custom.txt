@@ -4,10 +4,10 @@
 # License: https://github.com/ameer1234567890/custom_blocklist/blob/master/LICENSE
 # Issues: https://github.com/ameer1234567890/custom_blocklist/issues
 # Expires: 1 day
-# Last modified: 06 Feb 2026 12:41 UTC
+# Last modified: 23 Feb 2026 11:34 UTC
 # Version: 2026.01
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 63
+# Number of entries: 64
 #
 # Ad Blocking on Viber Desktop & Android
 0.0.0.0 ad.primis.tech
@@ -75,3 +75,4 @@
 0.0.0.0 oundhertobeconsist.org
 0.0.0.0 uisiaculturerpar.org
 0.0.0.0 displayvertising.com
+0.0.0.0 sskcdicsn.com
