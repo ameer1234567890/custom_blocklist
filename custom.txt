@@ -7,7 +7,7 @@
 # Last modified: 23 Feb 2026 11:34 UTC
 # Version: 2026.01
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 75
+# Number of entries: 77
 #
 # Ad Blocking on Viber Desktop & Android
 0.0.0.0 ad.primis.tech
@@ -87,3 +87,5 @@
 0.0.0.0 servicesinexclusive.com
 0.0.0.0 rappealaunt.cfd
 0.0.0.0 vyura.net
+0.0.0.0 tilesremedy.qpon
+0.0.0.0 rovno.xyz
