@@ -7,7 +7,7 @@
 # Last modified: 23 Feb 2026 11:34 UTC
 # Version: 2026.01
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 82
+# Number of entries: 87
 #
 # Ad Blocking on Viber Desktop & Android
 0.0.0.0 ad.primis.tech
@@ -94,3 +94,8 @@
 0.0.0.0 airwavetrouss.cfd
 0.0.0.0 mn.browpotware.com
 0.0.0.0 obelisklousier.cfd
+0.0.0.0 zd.paydayion.shop
+0.0.0.0 mp.gaseityorchid.com
+0.0.0.0 gigliosoling.cyou
+0.0.0.0 ridderwhooped.qpon
+0.0.0.0 kp.troggingods.com
